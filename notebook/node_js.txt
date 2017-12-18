@@ -1,0 +1,9 @@
+Instructions for node.js:
+
+1. Assuming the server application name is phwang.js. Run the node using this command "node phwang.js".
+
+2. For new cloned project do these:
+   a. Install express: "npm install express"
+   a. Install express: "npm install body-parser"
+
+

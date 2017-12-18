@@ -1,0 +1,14 @@
+Instructions for django:
+
+use "pip install django" to install django
+
+1. go to the django project directory.
+2. run this command "python manage.py runserver"
+
+in django folder:
+  django-admin.py startproject project_name (go_project)
+
+go to go_project:
+  python manage.py runserver
+  
+  python manage.py startapp app_name (go_server)

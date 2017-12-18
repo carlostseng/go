@@ -1,0 +1,12 @@
+Instruction for clone a repository from github:
+
+1. log in to github
+2. click the selected repository. For example, click phwang to go to paulhwang/phwang repository.
+3. In paulhwang/phwang repository, click the "clone or download" button to go to Clone with HTTPS box.
+4. In Clone with HTTPS box, click the "copy to clipboard" botton to save the https link (e.g. https://github.com/paulhwang/phwang.git)
+
+5. In Git Bash, go to your target project directory.
+6. Type "git clone" and paste the save https link. For example: "git clone https://github.com/paulhwang/phwang.git".
+
+Others"
+1 Use "git push" and "git pull" to update the repository.
